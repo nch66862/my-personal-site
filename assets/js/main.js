@@ -51,7 +51,7 @@
 
     $(function () {
         element.typed({
-            strings: ["Software Developer.", "Christian.", "Human."],
+            strings: ["Software Developer.", "Christian.", "Enthusiast."],
             typeSpeed: 100,
             loop: true,
             autoplay: true,
